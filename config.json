@@ -43,7 +43,7 @@
                   "ips4_device_key": null,
                   "ips4_IPSSessionFront": null,
                   "ips4_member_id": null,
-                  "ips4_login_key": null
+                  "ips4_login_key": null,
                   },
               "enabled":"1"
           },
