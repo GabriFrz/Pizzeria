@@ -17,7 +17,6 @@ from Src.Utilities.dictionaries import okru,STREAM,extra_sources,webru_vary,webr
 from Src.API.epg import tivu, tivu_get,epg_guide,convert_bho_1,convert_bho_2,convert_bho_3
 from Src.API.webru import webru,get_skystreaming
 from Src.API.onlineserietv import onlineserietv
-from Src.API.eurostreaming import eurostreaming
 from curl_cffi.requests import AsyncSession
 from slowapi import Limiter
 from slowapi.util import get_remote_address
