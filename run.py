@@ -53,7 +53,6 @@ DDL = config.DDL
 GS = config.GS
 GHD = config.GHD
 OST = config.OST
-ES = config.ES
 HOST = config.HOST
 PORT = int(config.PORT)
 Icon = config.Icon
